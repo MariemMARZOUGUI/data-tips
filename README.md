@@ -1,4 +1,6 @@
-# **Python for Data Science**
+# data-tips
+A data analysis performed on food servers' tips in restaurants
+
 ## **Data Understanding using Tips Dataset**
 
 This notebook serves as a tutorial to help understand and analyze the **Tips** dataset, which records food servers' tips in restaurants. The dataset contains 244 records, described by 7 variables. The goal is to explore and analyze the factors influencing tips in the restaurant industry and use these insights for decision-making related to table assignments for servers.
